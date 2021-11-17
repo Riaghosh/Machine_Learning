@@ -1,4 +1,5 @@
-#To develop an appropriate model to predict the movie ratings:
+# To develop an appropriate model to predict the movie ratings:
+
 DESCRIPTION
 
 Background of Problem Statement :
